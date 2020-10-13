@@ -1,8 +1,4 @@
 dgvdf
-<<<<<<< HEAD
 fvdggdf
 fdfgdg
 vgdfg
-=======
-dfgdfgh
->>>>>>> main
